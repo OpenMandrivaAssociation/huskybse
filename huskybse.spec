@@ -1,6 +1,6 @@
 %define name    huskybse
 %define version 1.0.0
-%define release %mkrel 4
+%define release %mkrel 6
 
 Summary:	Common files for all packages of the Husky-project
 Name:		%{name}
