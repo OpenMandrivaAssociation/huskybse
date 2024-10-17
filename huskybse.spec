@@ -10,7 +10,7 @@ License:	GPL
 Group:		File tools
 Source:		%{name}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-root
-URL:		http://sourceforge.net/projects/husky/
+URL:		https://sourceforge.net/projects/husky/
 Buildarch:	noarch
 
 %description
